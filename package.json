@@ -1,6 +1,6 @@
 {
   "name": "angular1-echarts3",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "baidu echarts echarts3",
   "main": "angular-echarts3.min.js",
   "scripts": {

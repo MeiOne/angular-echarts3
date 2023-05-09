@@ -3,7 +3,7 @@
 
     angular.module('angular-echarts3', []).directive('mwChart', mwChart);
 
-    function mwChart($window) {
+    function mwChart() {
         var directive = {
             restrict: 'E',
             require: 'ngModel',
